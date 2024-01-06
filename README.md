@@ -1,7 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faeze Fatemi :)
 =======================================================================================================================================
-<h3 align="left">A passionate frontend developer from Iran</h3>
+<h3 align="left">A passionate frontend developer </h3>
 
 - 🌱 I’m currently learning **React js**
 
